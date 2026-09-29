@@ -87,7 +87,7 @@ This page helps move from overall business performance into product and customer
 
 ### Regional & Shipping Analysis
 
-![Regional and Shipping Analysis](images/4_dasboard_3.png)
+![Regional and Shipping Analysis](images/4_dashboard_3.png)
 
 <details>
 <summary><strong>What can be explored on this page?</strong></summary>
