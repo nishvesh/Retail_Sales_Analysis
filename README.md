@@ -31,7 +31,7 @@ The project combines **Python EDA, SQL analysis, and an interactive Power BI das
 
 ### Executive Overview
 
-![Executive Overview](images/dashboard_1.png)
+![Executive Overview](images/1_dashboard_1.png)
 
 <details>
 <summary><strong>What can be explored on this page?</strong></summary>
@@ -55,7 +55,7 @@ The filter button opens a collapsible filter panel. The same filters are synchro
 
 ### Executive Overview with Filters
 
-![Executive Overview - Filters](images/dashboard_1.1.png)
+![Executive Overview - Filters](images/2_dashboard_1.1.png)
 
 The dashboard uses a collapsible filter panel to keep the main report area clean while still allowing interactive analysis.
 
@@ -67,7 +67,7 @@ The dashboard uses a collapsible filter panel to keep the main report area clean
 
 ### Product & Customer Analysis
 
-![Product and Customer Analysis](images/dashboard_2.png)
+![Product and Customer Analysis](images/3_dashboard_2.png)
 
 <details>
 <summary><strong>What can be explored on this page?</strong></summary>
@@ -87,7 +87,7 @@ This page helps move from overall business performance into product and customer
 
 ### Regional & Shipping Analysis
 
-![Regional and Shipping Analysis](images/dasboard_3.png)
+![Regional and Shipping Analysis](images/4_dasboard_3.png)
 
 <details>
 <summary><strong>What can be explored on this page?</strong></summary>
